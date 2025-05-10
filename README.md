@@ -1,16 +1,19 @@
-## Hi there 👋
+### ☀️ Hello, I'm Angelina!
 
-<!--
-**ayh-l/ayh-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Please find some of my favourite projects below!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Projects
+
+**Academic projects available on GitHub**
+
+- **[Music Memory Game](https://github.com/ayh-l/music-memory-game.git)** - 
+  A music memory game with high scores, a viewable and filterable collection of previous rounds, and other gameplay history data.  
+  Technologies: Java, Swing, JUnit, JSON
+
+**Academic projects available on request**
+
+- **Course Sections Insights** - 
+  A web application that lets users explore interactive “insight” graphs (e.g., pass rates by instructor) based on uploaded course section datasets.  
+  Technologies: Typescript, React, CSS, Chart.js
